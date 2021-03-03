@@ -1,6 +1,6 @@
 # [Check out the live version of this application](https://react-burger-builder-2357.web.app)
 
-
+![Application Demo](burger.gif)
 
 # Burger-Builder
 
